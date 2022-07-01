@@ -1,0 +1,8 @@
+assets/uploads/categories/
+assets/uploads/images/
+assets/uploads/Ads/
+#vscode and php storm
+.idea/
+.vscode/
+#logs
+application/logs/
